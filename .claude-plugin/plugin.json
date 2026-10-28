@@ -18,5 +18,8 @@
     "hotel booking",
     "accommodation"
   ],
-  "privacyPolicyUrl": "https://www.direct-hotels.com/privacy"
+  "privacyPolicyUrl": "https://www.direct-hotels.com/privacy",
+  "documentationUrl": "https://www.direct-hotels.com/mcp",
+  "supportUrl": "https://www.direct-hotels.com/support",
+  "termsOfServiceUrl": "https://www.direct-hotels.com/terms"
 }
