@@ -1,0 +1,15 @@
+{
+  "name": "direct-hotels",
+  "description": "Direct Hotels: hotels worldwide with links to book each one on its own website.",
+  "owner": {
+    "name": "Nicolas Sitter",
+    "email": "hello@direct-hotels.com"
+  },
+  "plugins": [
+    {
+      "name": "direct-hotels",
+      "source": "./",
+      "description": "Find hotels anywhere and the link to book each one on its own website, with no OTA in between."
+    }
+  ]
+}

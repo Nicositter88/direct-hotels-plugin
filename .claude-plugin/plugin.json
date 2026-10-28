@@ -1,0 +1,22 @@
+{
+  "name": "direct-hotels",
+  "displayName": "Direct Hotels",
+  "version": "1.0.0",
+  "description": "Find hotels anywhere and the link to book each one on its own website, with no OTA in between. Free, no commission, no sign-in.",
+  "author": {
+    "name": "Nicolas Sitter",
+    "email": "hello@direct-hotels.com",
+    "url": "https://www.direct-hotels.com"
+  },
+  "homepage": "https://www.direct-hotels.com/mcp",
+  "repository": "https://github.com/Nicositter88/direct-hotels-plugin",
+  "license": "MIT",
+  "keywords": [
+    "hotels",
+    "travel",
+    "book direct",
+    "hotel booking",
+    "accommodation"
+  ],
+  "privacyPolicyUrl": "https://www.direct-hotels.com/privacy"
+}

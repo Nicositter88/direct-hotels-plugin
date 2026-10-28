@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "direct-hotels": {
+      "type": "http",
+      "url": "https://www.direct-hotels.com/api/mcp"
+    }
+  }
+}
